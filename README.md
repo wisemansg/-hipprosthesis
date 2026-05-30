@@ -30,9 +30,7 @@ Below is a structured overview of the key design, material, manufacturing, and p
 
 ## 📖 1. Abstract
 
-Hip prostheses represent a major advancement in orthopedic medicine, enabling the restoration of joint function for patients suffering from degenerative conditions such as osteoarthritis. Their development requires a multidisciplinary synthesis of biomechanics, materials science, and precision manufacturing.
-
-Surface performance, particularly surface roughness of the femoral head, directly affects wear, friction, lubrication, and biological response. This work synthesizes design factors, material choices, expected lifetime considerations, and manufacturing requirements associated with hip implant production.
+Hip prostheses represent a major advancement in orthopedic medicine, enabling the restoration of joint function for patients suffering from degenerative conditions such as osteoarthritis. Their development requires a multidisciplinary synthesis of biomechanics, materials science, and precision manufacturing. Surface performance, particularly surface roughness of the femoral head, directly affects wear, friction, lubrication, and biological response. This work synthesizes design factors, material choices, expected lifetime considerations, and manufacturing requirements associated with hip implant production.
 
 ---
 
