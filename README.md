@@ -8,6 +8,19 @@
   <img src="https://img.shields.io/badge/Surface%20Engineering-8E24AA?logo=protools&logoColor=white" />
   <img src="https://img.shields.io/badge/Precision%20Manufacturing-FDD835?logo=autodesk&logoColor=black" />
   <img src="https://img.shields.io/badge/Tribology-FB8C00?logo=simpleicons&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNC%20Machining-546E7A?logo=cncf&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAD%20Design-0288D1?logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Finite%20Element%20Analysis-3949AB?logo=ansys&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fatigue%20Analysis-5E35B1?logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEM%20Analysis-6D4C41?logo=microscope&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDX%20Spectroscopy-00897B?logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microhardness%20Testing-7CB342?logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Residual%20Stress%20Analysis-C62828?logo=analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Surface%20Roughness-EF6C00?logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wear%20Analysis-AD1457?logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biocompatibility-2E7D32?logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO%207206--4-1565C0?logo=veritas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Implant%20Design-455A64?logo=medrt&logoColor=white" />
 </p>
 
 ---
