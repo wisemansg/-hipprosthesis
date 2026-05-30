@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Fatigue%20Analysis-5E35B1?logo=testinglibrary&logoColor=white" />
   <img src="https://img.shields.io/badge/SEM%20Analysis-6D4C41?logo=microscope&logoColor=white" />
   <img src="https://img.shields.io/badge/EDX%20Spectroscopy-00897B?logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microhardness%20Testing-7CB342?logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Residual%20Stress%20Analysis-C62828?logo=analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Surface%20Roughness-EF6C00?logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Wear%20Analysis-AD1457?logo=speedtest&logoColor=white" />
